@@ -54,7 +54,7 @@ const Login = () => {
         <FormInput type="email" label="email" name="identifier" />
         <FormInput type="password" label="password" name="password" />
         <div className="mt-4">
-          <SubmitBtn text="login" />
+          <SubmitBtn text="LOGIN" />
         </div>
         <button
           type="button"
