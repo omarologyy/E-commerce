@@ -33,7 +33,7 @@ const Register = () => {
         <FormInput type="email" label="email" name="email" />
         <FormInput type="password" label="password" name="password" />
         <div className="mt-4">
-          <SubmitBtn text="register" />
+          <SubmitBtn text="REGISTER" />
         </div>
 
         <p className="text-center">
