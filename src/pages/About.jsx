@@ -13,7 +13,14 @@ const About = () => {
           </div>
         </div>
       </div>
-      <p className="mt-6 text-lg leading-8 max-w-2xl mx-auto">hj</p>
+      <p className="mt-6 text-lg leading-8 max-w-2xl mx-auto">
+        For this website you can display of products or services with
+        descriptions, images, prices, and specifications. There is Easy
+        navigation and search tools to help users find specific items. It allows
+        customers to add items they want to purchase and review their
+        selections. There is secure methods for making online payments using
+        credit cards, PayPal, or other methods.
+      </p>
     </>
   )
 }
