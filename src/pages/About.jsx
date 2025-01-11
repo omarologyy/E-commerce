@@ -13,13 +13,7 @@ const About = () => {
           </div>
         </div>
       </div>
-      <p className="mt-6 text-lg leading-8 max-w-2xl mx-auto">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo
-        perferendis ducimus excepturi nemo veniam, odit aliquam fuga omnis quam
-        sit earum iure temporibus iste dolor corrupti incidunt blanditiis enim
-        exercitationem magnam nisi facilis dolore sequi aspernatur architecto!
-        Fugit, dolore aspernatur?
-      </p>
+      <p className="mt-6 text-lg leading-8 max-w-2xl mx-auto">hj</p>
     </>
   )
 }
