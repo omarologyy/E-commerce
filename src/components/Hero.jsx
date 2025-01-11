@@ -13,10 +13,13 @@ const Hero = () => {
           We're changing the way people shop
         </h1>
         <p className="mt-8 max-w-xl text-lg leading-8 ">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime
-          commodi sed tenetur assumenda, soluta placeat perspiciatis eveniet
-          unde animi consequuntur, saepe aperiam illo adipisci tempore
-          repudiandae vero aspernatur ducimus enim?
+          This is an e-commerce website which is an online platform where
+          businesses and individuals can buy and sell products or services over
+          the internet. This websites serve as virtual stores that allow
+          customers to browse, select, and purchase items from anywhere in the
+          world. This website provide features such as product listings, search
+          functionality, shopping carts, secure payment gateways, and customer
+          accounts.
         </p>
         <div className="mt-10">
           <Link to="/products" className="btn btn-primary">
