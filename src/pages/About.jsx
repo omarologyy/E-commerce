@@ -19,7 +19,11 @@ const About = () => {
         navigation and search tools to help users find specific items. It allows
         customers to add items they want to purchase and review their
         selections. There is secure methods for making online payments using
-        credit cards, PayPal, or other methods.
+        credit cards, PayPal, or other methods. It enables customers to create
+        accounts for faster checkout, order tracking, and personalized
+        experiences. As For sellers to manage orders, inventory, and shipping.
+        it's Optimized for browsing and shopping on mobile devices. SSL
+        certificates and encryption to protect customer data.
       </p>
     </>
   )
